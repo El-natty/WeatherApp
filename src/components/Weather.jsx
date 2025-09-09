@@ -78,7 +78,7 @@ const weather = () => {
               <img src={humidity_icon} alt="" />
               <div>
                 <p>{weatherData.humidity}%</p>
-                <span>Humidityy</span>
+                <span>Humidity</span>
               </div>
             </div>
 
@@ -86,7 +86,7 @@ const weather = () => {
               <img src={wind_icon} alt="" />
               <div>
                 <p>{weatherData.windSpeed}km/h</p>
-                <span>WindSpeed</span>
+                <span>Wind Speed</span>
               </div>
             </div>
           </div>
