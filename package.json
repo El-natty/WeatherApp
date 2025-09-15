@@ -1,6 +1,6 @@
 {
   "name": "vite",
-  "homepage": "https//El-natty.github.io/WeatherForecast",
+  "homepage": "https//El-natty.github.io/WeatherApp",
   "type": "module",
   "scripts": {
     "dev": "vite",
